@@ -14,6 +14,7 @@ Feel free to get in touch for anything related to collaborations, projects, volu
 
 Repositories I contributed to:
 
+- [vscode](https://github.com/microsoft/vscode/pulls?q=is%3Apr+author%3Aoxcened)
 - [storybook](https://github.com/storybookjs/storybook/pulls?q=is%3Apr+author%3Aoxcened)
 - [formik](https://github.com/jaredpalmer/formik/pulls?q=is%3Apr+author%3Aoxcened)
 - [daisyui](https://github.com/saadeghi/daisyui/pulls?q=is%3Apr+author%3Aoxcened)
