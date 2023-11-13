@@ -19,6 +19,7 @@ Repositories I contributed to:
 - [formik](https://github.com/jaredpalmer/formik/pulls?q=is%3Apr+author%3Aoxcened)
 - [daisyui](https://github.com/saadeghi/daisyui/pulls?q=is%3Apr+author%3Aoxcened)
 - [react.dev](https://github.com/reactjs/react.dev/pulls?q=is%3Apr+author%3Aoxcened)
+- [wagmi](https://github.com/wagmi-dev/wagmi/pulls?q=is%3Apr+author%3Aoxcened)
 - [react-daisyui](https://github.com/daisyui/react-daisyui/pulls?q=is%3Apr+author%3Aoxcened)
 - [it.react.dev](https://github.com/reactjs/it.react.dev/pulls?q=is%3Apr+author%3Aoxcened)
 </samp>
