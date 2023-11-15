@@ -12,7 +12,7 @@ Feel free to get in touch for anything related to collaborations, projects, volu
 
 ---
 
-Amazing stuff I contributed to:
+Cool stuff that I contributed to:
 
 - [microsoft/vscode](https://github.com/microsoft/vscode/pulls?q=is%3Apr+author%3Aoxcened)
 - [storybookjs/storybook](https://github.com/storybookjs/storybook/pulls?q=is%3Apr+author%3Aoxcened)
