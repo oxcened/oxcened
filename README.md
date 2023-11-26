@@ -22,6 +22,7 @@ Cool stuff that I contributed to:
 - [reactjs/react.dev](https://github.com/reactjs/react.dev/pulls?q=is%3Apr+author%3Aoxcened)
 - [wagmi-dev/wagmi](https://github.com/wagmi-dev/wagmi/pulls?q=is%3Apr+author%3Aoxcened)
 - [daisyui/react-daisyui](https://github.com/daisyui/react-daisyui/pulls?q=is%3Apr+author%3Aoxcened)
+- [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui/pulls?q=is%3Apr+author%3Aoxcened)
 - [reactjs/it.react.dev](https://github.com/reactjs/it.react.dev/pulls?q=is%3Apr+author%3Aoxcened)
 </samp>
 
