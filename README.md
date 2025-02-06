@@ -2,11 +2,11 @@
 
 <samp>
 
-I'm Alen, 24 years old Software Engineer based in Italy. 
+I’m Alen, a 26-year-old Software Engineer based in Italy.
 
-Right now, I'm actively getting more involved in the open source community.
+I’m currently diving deeper into the open-source community, contributing and collaborating wherever I can.
 
-Feel free to get in touch for anything related to collaborations, projects, volunteering or just to have a chat!
+Feel free to reach out—whether it’s for projects, collaborations, volunteering, or just a friendly chat!
 
 [alenajam.dev](https://alenajam.dev) | [hello@alenajam.dev](mailto:hello@alenajam.dev)
 
